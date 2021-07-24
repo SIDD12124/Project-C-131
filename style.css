@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.btn{
+    color: white;
+    border-color: whitesmoke;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    line-height: 2;
+    font-size: 20px;
+    color: blue;   
+}

@@ -1,0 +1,46 @@
+body{
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+
+#status
+{
+font-size: 18px;
+}
+
+#no_of_obj{
+font-size: 18px;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+#home_btn{
+    font-size: 30px;
+    bottom: 70px;
+    left: 70px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    line-height: 2;
+    font-size: 20px;
+    color: blue;
+}
+
